@@ -1,0 +1,25 @@
+{
+  "name": "react-notes",
+  "version": "1.0.0",
+  "description": "This is a react study material",
+  "license": "ISC",
+  "author": "shreyas",
+  "type": "commonjs",
+  "homepage": "https://github.com/ShreyasKulkarni96/React-Notes#readme",
+  "bugs": {
+    "url": "https://github.com/ShreyasKulkarni96/React-Notes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyasKulkarni96/React-Notes.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react-dom": "^19.2.5"
+  }
+}
